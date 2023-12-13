@@ -16,11 +16,16 @@ We used *Python 3.6* for this project and implemented the code in *Jupyter Noteb
 ## Code
 The code for this project is written in Python . The code is available in the `liver-disease-EDA.ipynb` file.
 
-##libraries and dependencies 
-scikit-learn: for implementing logistic regression, KNN, SVC, Random forest.
-NumPy : for numerical operations.
-Matplotlib or Seaborn : for data visualization.
-Pandas: for data manipulation and analysis.
+## libraries and dependencies 
+
+### scikit-learn:
+for implementing logistic regression, KNN, SVC, Random forest.
+### NumPy :
+for numerical operations.
+### Matplotlib or Seaborn : 
+for data visualization.
+### Pandas:
+for data manipulation and analysis.
  
 ## Data Visualisation
 ### Age distribution of the patients
