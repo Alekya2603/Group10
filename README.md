@@ -14,7 +14,8 @@ We used *Python 3.6* for this project and implemented the code in *Jupyter Noteb
 
 
 ## Code
-The code for this project is written in Python . The code is available in the `liver-disease-EDA.ipynb` file.
+The code for this project is written in Python . The code is available in the `Liver-Disease-Diagnosis - Group10
+.ipynb` file.
 
 ## libraries and dependencies 
 
